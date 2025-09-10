@@ -61,7 +61,13 @@ using namespace std;
 
 
 //                     Problem 16
-// int main() {}
+// int main()
+// {
+//  int x = 17;
+//  int y = 1;
+//  double z = (x+(++x))/((y+y+y)*(++y));
+//  cout << z << endl;
+// }
 
 
 //                     Problem 17
