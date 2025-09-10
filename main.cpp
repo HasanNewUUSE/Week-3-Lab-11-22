@@ -135,6 +135,21 @@ using namespace std;
 // }
 
 
+//                  Problem 22
+// int main()
+// {
+//  double Sardor, Mike;
+//  cout<<"Enter Sardor's height in cm: "<<endl;
+//  cin>>Sardor;
+//  cout<<"Enter Mike's height in ft: "<<endl;
+//  cin>>Mike;
+//  double ft = Mike*30.48;
+//  cout<<(ft>Sardor)<<endl;
+//  return 0;
+//
+// }
+
+
 
 
 
