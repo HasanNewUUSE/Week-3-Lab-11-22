@@ -54,10 +54,16 @@ using namespace std;
 
 
 //                  Problem 15
-// int main() {
-//     char a;
-//
-// }
+ // int main() {
+ //     char a='A';//!HELLO
+ //     char b= a-32;
+ //     char c= a+7;
+ //     char d= a+4;
+ //     char e= a+11;
+ //     char f= a+11;
+ //     char g= a+14;
+ //     cout<<b<<c<<d<<e<<f<<g<<endl;
+ // }
 
 
 //                     Problem 16
